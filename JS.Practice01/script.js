@@ -18,7 +18,6 @@ else {
     /* msg.innerHTML = 'Good Evening!' */
     img.src = '_Images/pexels-cottonbro-studio-4069291.jpg'
     document.body.style.background = '#515154'
-
 }
 
 }
